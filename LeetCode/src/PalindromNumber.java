@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class PalindromNumber {
     public static boolean isPalindrome(int x) {
         String str=String.valueOf(x);
-
         StringBuilder str2=new StringBuilder();
         str2.append(str);
         return str2.reverse().toString().equals(str);
