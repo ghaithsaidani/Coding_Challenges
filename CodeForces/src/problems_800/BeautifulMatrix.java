@@ -8,7 +8,7 @@ public class BeautifulMatrix {
         int row=0;
         int column=0;
         for (int i = 0; i < 5; i++) {
-            int x
+
             for (int j = 0; j < 5; j++) {
                 int x= sc.nextInt();
                 if (x==1){

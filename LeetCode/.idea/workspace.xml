@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5467e3b8-3e7c-4eec-af5e-76435c816c41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AlgoExpert/out/production/AlgoExpert/BranchSums.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgoExpert/out/production/AlgoExpert/BranchSums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/out/production/CodeForces/problems_800/BeautifulMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/out/production/CodeForces/problems_800/BeautifulMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/src/problems_800/BeautifulMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/src/problems_800/BeautifulMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/AddBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ClimbingStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Duplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/FirstOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/InsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LengthOfLastWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LongestPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MergeTwoSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/PalindromNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/RomanToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Socks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TwoSums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ValidParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/removeduplicates/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/removeduplicates/RemoveDuplicatesfromSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClimbingStairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Duplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstOccurrence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsertPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LengthOfLastWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeTwoSortedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlusOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RomanToInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Socks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidParentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/removeduplicates/RemoveDuplicatesfromSortedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Using Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Using Python/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2IeFUXffEQpOQr07aautJqVt7RQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/LeetCode/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FirstOccurrence">
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstOccurrence" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InorderTraversal" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSums" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidParentheses" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LeetCode" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstOccurrence" />
+        <item itemvalue="Application.InorderTraversal" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.TwoSums" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5467e3b8-3e7c-4eec-af5e-76435c816c41" name="Changes" comment="" />
+      <created>1670534161076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670534161076</updated>
+      <workItem from="1670534162438" duration="4490000" />
+      <workItem from="1670710253286" duration="2282000" />
+      <workItem from="1670750804625" duration="12000" />
+      <workItem from="1671006420631" duration="201000" />
+      <workItem from="1673989504822" duration="1196000" />
+      <workItem from="1674329397644" duration="59000" />
+      <workItem from="1674570555690" duration="204000" />
+      <workItem from="1674571304849" duration="52000" />
+      <workItem from="1674571861138" duration="81000" />
+      <workItem from="1674651445493" duration="61000" />
+      <workItem from="1674660578282" duration="184000" />
+      <workItem from="1674660828556" duration="80000" />
+      <workItem from="1674752128215" duration="132000" />
+      <workItem from="1674851774269" duration="649000" />
+      <workItem from="1678564024613" duration="1939000" />
+      <workItem from="1678567844947" duration="1856000" />
+      <workItem from="1678615084860" duration="5430000" />
+      <workItem from="1678642872557" duration="2856000" />
+      <workItem from="1678792220667" duration="64000" />
+      <workItem from="1678792318036" duration="595000" />
+      <workItem from="1683841494059" duration="2215000" />
+      <workItem from="1683907163302" duration="5589000" />
+      <workItem from="1684181402001" duration="29000" />
+      <workItem from="1684446198554" duration="4056000" />
+      <workItem from="1684521424543" duration="8865000" />
+      <workItem from="1684566513048" duration="1606000" />
+      <workItem from="1684570400877" duration="693000" />
+      <workItem from="1684706002084" duration="4361000" />
+      <workItem from="1684744263590" duration="102000" />
+      <workItem from="1684789290638" duration="633000" />
+      <workItem from="1684845168289" duration="75000" />
+      <workItem from="1684876563576" duration="2962000" />
+      <workItem from="1684919459875" duration="1759000" />
+      <workItem from="1685048869581" duration="231000" />
+      <workItem from="1685049150193" duration="537000" />
+      <workItem from="1685049704639" duration="1525000" />
+      <workItem from="1685109591134" duration="811000" />
+      <workItem from="1685208083260" duration="4136000" />
+      <workItem from="1685365098427" duration="19000" />
+      <workItem from="1690662163787" duration="2701000" />
+      <workItem from="1693423080213" duration="811000" />
+      <workItem from="1697193246342" duration="767000" />
+      <workItem from="1711298245910" duration="729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+</project>
