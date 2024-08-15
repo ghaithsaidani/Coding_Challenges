@@ -1,3 +1,0 @@
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/cmake-build-debug/CMakeFiles/c__.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
