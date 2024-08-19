@@ -26,3 +26,10 @@ add_executable(c__
         #InSearchEasyProblem.cpp
         George_Accomodation.cpp
 )
+add_executable(brute_force
+        brute_force/MaximumMultipleSum.cpp
+)
+add_executable(sorting
+        sorting/ChoosingCubes.cpp
+)
+add_executable(math math/ProblemGenerator.cpp)

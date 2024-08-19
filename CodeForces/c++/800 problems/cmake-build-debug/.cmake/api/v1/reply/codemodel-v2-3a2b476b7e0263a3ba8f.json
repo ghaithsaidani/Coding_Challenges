@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c__2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "brute_force::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-brute_force-Debug-bcd46b2c552b83799b85.json",
+					"name" : "brute_force",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c__-Debug-e666b3dbd2f7cb689afe.json",
+					"name" : "c__",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructive_algorithms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructive_algorithms-Debug-c05685ee796ed5a9cce2.json",
+					"name" : "constructive_algorithms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "math::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-math-Debug-8f61fc223da5c2b3e5bd.json",
+					"name" : "math",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sorting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sorting-Debug-96fe6e230e3520827b55.json",
+					"name" : "sorting",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/800 problems/cmake-build-debug",
+		"source" : "C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/800 problems"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

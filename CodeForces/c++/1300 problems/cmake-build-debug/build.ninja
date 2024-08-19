@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challen
 
 build cmake_object_order_depends_target_1300_problems: phony || CMakeFiles/1300_problems.dir
 
-build CMakeFiles/1300_problems.dir/RandomTeams.cpp.obj: CXX_COMPILER__1300_problems_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/1300$ problems/RandomTeams.cpp || cmake_object_order_depends_target_1300_problems
-  DEP_FILE = CMakeFiles\1300_problems.dir\RandomTeams.cpp.obj.d
+build CMakeFiles/1300_problems.dir/BuyingShovels.cpp.obj: CXX_COMPILER__1300_problems_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/1300$ problems/BuyingShovels.cpp || cmake_object_order_depends_target_1300_problems
+  DEP_FILE = CMakeFiles\1300_problems.dir\BuyingShovels.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\1300_problems.dir
   OBJECT_FILE_DIR = CMakeFiles\1300_problems.dir
@@ -63,7 +63,7 @@ build CMakeFiles/1300_problems.dir/RandomTeams.cpp.obj: CXX_COMPILER__1300_probl
 #############################################
 # Link the executable 1300_problems.exe
 
-build 1300_problems.exe: CXX_EXECUTABLE_LINKER__1300_problems_Debug CMakeFiles/1300_problems.dir/RandomTeams.cpp.obj
+build 1300_problems.exe: CXX_EXECUTABLE_LINKER__1300_problems_Debug CMakeFiles/1300_problems.dir/BuyingShovels.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\1300_problems.dir

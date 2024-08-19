@@ -1,0 +1,10 @@
+# ninja log v6
+534	655	7457612464252105	1000_problems.exe	a36bf469ffc9123c
+2	403	7457942628989409	build.ninja	99df06a725818828
+27	532	7457612459178239	CMakeFiles/1000_problems.dir/Dragons.cpp.obj	6dc41a9d2045e0a8
+2	842	7457631162639213	CMakeFiles/sorting.dir/sorting/Dragons.cpp.obj	2246518ee05903cc
+7	798	7457888158482511	CMakeFiles/constructive_algorithms.dir/constructive_algorithms/OlyaAndGamesWithArrays.cpp.obj	26313b9e1ff84d37
+564	666	7457647299124577	sorting.exe	b4731c6942699e11
+6	563	7457647293547204	CMakeFiles/sorting.dir/sorting/MahmoudAndTriangle.cpp.obj	784e4f592beaeb05
+454	546	7457895664528156	constructive_algorithms.exe	475adf3bc1b7e5e9
+7	453	7457895660063616	CMakeFiles/constructive_algorithms.dir/constructive_algorithms/ShiftsAndSorting.cpp.obj	4bdbd78dd538fc86
