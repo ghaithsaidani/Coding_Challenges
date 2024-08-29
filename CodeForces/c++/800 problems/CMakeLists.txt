@@ -33,3 +33,20 @@ add_executable(sorting
         sorting/ChoosingCubes.cpp
 )
 add_executable(math math/ProblemGenerator.cpp)
+add_executable(binary_search
+        #binary_search/NewYearAndHurry.cpp
+        #binary_search/CanISquare.cpp
+        #binary_search/Legs.cpp
+        #binary_search/TeamComposition.cpp
+        #binary_search/MedianMaximization.cpp
+        #binary_search/GamerHemose.cpp
+        #binary_search/NewBakery.cpp
+        binary_search/NeneGame.cpp
+)
+add_executable(data_structures
+        data_structures/ICPCBalloons.cpp
+)
+add_executable(implementation
+        #implementation/CalculatingFunction.cpp
+        implementation/Magnets.cpp
+)

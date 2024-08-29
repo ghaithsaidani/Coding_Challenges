@@ -17,5 +17,9 @@ add_executable(sorting
         #sorting/GameWithSticks.cpp
         #sorting/LlyaAndBankAccount.cpp
         #sorting/VasyaAndSocks.cpp
-        sorting/Keyboard.cpp
+        #sorting/Keyboard.cpp
+        #sorting/ArrayReordering.cpp
+        sorting/Promo.cpp
 )
+add_executable(binary_search binary_search/SushiForTwo.cpp)
+add_executable(data_structures data_structures/OddQueries.cpp)

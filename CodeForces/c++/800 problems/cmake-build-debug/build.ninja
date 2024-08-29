@@ -173,37 +173,103 @@ build math.exe: CXX_EXECUTABLE_LINKER__math_Debug CMakeFiles/math.dir/math/Probl
   TARGET_PDB = math.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target constructive_algorithms
+# Object build statements for EXECUTABLE target binary_search
 
 
 #############################################
-# Order-only phony target for constructive_algorithms
+# Order-only phony target for binary_search
 
-build cmake_object_order_depends_target_constructive_algorithms: phony || CMakeFiles/constructive_algorithms.dir
+build cmake_object_order_depends_target_binary_search: phony || CMakeFiles/binary_search.dir
 
-build CMakeFiles/constructive_algorithms.dir/constructive_algorithms/OlyaAndGamesWithArrays.cpp.obj: CXX_COMPILER__constructive_algorithms_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/800$ problems/constructive_algorithms/OlyaAndGamesWithArrays.cpp || cmake_object_order_depends_target_constructive_algorithms
-  DEP_FILE = CMakeFiles\constructive_algorithms.dir\constructive_algorithms\OlyaAndGamesWithArrays.cpp.obj.d
+build CMakeFiles/binary_search.dir/binary_search/NeneGame.cpp.obj: CXX_COMPILER__binary_search_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/800$ problems/binary_search/NeneGame.cpp || cmake_object_order_depends_target_binary_search
+  DEP_FILE = CMakeFiles\binary_search.dir\binary_search\NeneGame.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\constructive_algorithms.dir
-  OBJECT_FILE_DIR = CMakeFiles\constructive_algorithms.dir\constructive_algorithms
+  OBJECT_DIR = CMakeFiles\binary_search.dir
+  OBJECT_FILE_DIR = CMakeFiles\binary_search.dir\binary_search
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target constructive_algorithms
+# Link build statements for EXECUTABLE target binary_search
 
 
 #############################################
-# Link the executable constructive_algorithms.exe
+# Link the executable binary_search.exe
 
-build constructive_algorithms.exe: CXX_EXECUTABLE_LINKER__constructive_algorithms_Debug CMakeFiles/constructive_algorithms.dir/constructive_algorithms/OlyaAndGamesWithArrays.cpp.obj
+build binary_search.exe: CXX_EXECUTABLE_LINKER__binary_search_Debug CMakeFiles/binary_search.dir/binary_search/NeneGame.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\constructive_algorithms.dir
+  OBJECT_DIR = CMakeFiles\binary_search.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = constructive_algorithms.exe
-  TARGET_IMPLIB = libconstructive_algorithms.dll.a
-  TARGET_PDB = constructive_algorithms.exe.dbg
+  TARGET_FILE = binary_search.exe
+  TARGET_IMPLIB = libbinary_search.dll.a
+  TARGET_PDB = binary_search.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target data_structures
+
+
+#############################################
+# Order-only phony target for data_structures
+
+build cmake_object_order_depends_target_data_structures: phony || CMakeFiles/data_structures.dir
+
+build CMakeFiles/data_structures.dir/data_structures/ICPCBalloons.cpp.obj: CXX_COMPILER__data_structures_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/800$ problems/data_structures/ICPCBalloons.cpp || cmake_object_order_depends_target_data_structures
+  DEP_FILE = CMakeFiles\data_structures.dir\data_structures\ICPCBalloons.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\data_structures.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structures.dir\data_structures
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target data_structures
+
+
+#############################################
+# Link the executable data_structures.exe
+
+build data_structures.exe: CXX_EXECUTABLE_LINKER__data_structures_Debug CMakeFiles/data_structures.dir/data_structures/ICPCBalloons.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\data_structures.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = data_structures.exe
+  TARGET_IMPLIB = libdata_structures.dll.a
+  TARGET_PDB = data_structures.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target implementation
+
+
+#############################################
+# Order-only phony target for implementation
+
+build cmake_object_order_depends_target_implementation: phony || CMakeFiles/implementation.dir
+
+build CMakeFiles/implementation.dir/implementation/Magnets.cpp.obj: CXX_COMPILER__implementation_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/800$ problems/implementation/Magnets.cpp || cmake_object_order_depends_target_implementation
+  DEP_FILE = CMakeFiles\implementation.dir\implementation\Magnets.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\implementation.dir
+  OBJECT_FILE_DIR = CMakeFiles\implementation.dir\implementation
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target implementation
+
+
+#############################################
+# Link the executable implementation.exe
+
+build implementation.exe: CXX_EXECUTABLE_LINKER__implementation_Debug CMakeFiles/implementation.dir/implementation/Magnets.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\implementation.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = implementation.exe
+  TARGET_IMPLIB = libimplementation.dll.a
+  TARGET_PDB = implementation.exe.dbg
 
 
 #############################################
@@ -231,11 +297,15 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build binary_search: phony binary_search.exe
+
 build brute_force: phony brute_force.exe
 
 build c__: phony c__.exe
 
-build constructive_algorithms: phony constructive_algorithms.exe
+build data_structures: phony data_structures.exe
+
+build implementation: phony implementation.exe
 
 build math: phony math.exe
 
@@ -249,7 +319,7 @@ build sorting: phony sorting.exe
 #############################################
 # Folder: C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/800 problems/cmake-build-debug
 
-build all: phony c__.exe brute_force.exe sorting.exe math.exe constructive_algorithms.exe
+build all: phony c__.exe brute_force.exe sorting.exe math.exe binary_search.exe data_structures.exe implementation.exe
 
 # =============================================================================
 # Built-in targets

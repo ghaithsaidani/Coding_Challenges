@@ -1,11 +1,26 @@
 # ninja log v6
 424	552	7444872525726711	c__.exe	39856d6835d017c4
 409	496	7457688549406871	brute_force.exe	3d2d314edcba4b31
-2	303	7457776951523204	build.ninja	309a2c6c22235074
+2	299	7466452406000838	build.ninja	309a2c6c22235074
+6	539	7465886204518156	CMakeFiles/implementation.dir/implementation/CalculatingFunction.cpp.obj	910433824a260939
 505	608	7442585016253189	c__2.exe	94ebb44191dffad2
 9	423	7444872521574853	CMakeFiles/c__.dir/George_Accomodation.cpp.obj	53609a7d0869a231
 7	409	7457688545376958	CMakeFiles/brute_force.dir/brute_force/MaximumMultipleSum.cpp.obj	be7e91d70eb84eb1
 6	558	7457718019540890	CMakeFiles/sorting.dir/sorting/ChoosingCubes.cpp.obj	7240e460064135f6
 558	661	7457718025059912	sorting.exe	199daa06dbf00d0
 8	553	7457767244751438	CMakeFiles/math.dir/math/ProblemGenerator.cpp.obj	6e4e0e9f5dd3ffa0
+8	541	7464717470890380	CMakeFiles/data_structures.dir/data_structures/ICPCBalloons.cpp.obj	9e38767c44471daa
+50	1088	7462302646027270	CMakeFiles/binary_search.dir/binary_search/TeamComposition.cpp.obj	ff9666f699ff240
 554	650	7457767250211969	math.exe	4f3f2453f5ca5914
+7	488	7460359188635706	CMakeFiles/binary_search.dir/binary_search/NewYearAndHurry.cpp.obj	a627ab14b7957d1e
+576	679	7464711663517336	binary_search.exe	6c4247afffc86f63
+13	967	7461980742626755	CMakeFiles/binary_search.dir/binary_search/CanISquare.cpp.obj	51e3ae855a19f317
+10	678	7461986189223598	CMakeFiles/binary_search.dir/binary_search/Legs.cpp.obj	e0c82a09a533260d
+24	483	7462328120501452	CMakeFiles/binary_search.dir/binary_search/MedianMaximization.cpp.obj	dc903cf0c538b8a9
+8	612	7462987747102557	CMakeFiles/binary_search.dir/binary_search/GamerHemose.cpp.obj	9193237cfd9a6d41
+9	722	7463896322092800	CMakeFiles/binary_search.dir/binary_search/NewBakery.cpp.obj	a5a32cff7192cfd
+23	575	7464711657987820	CMakeFiles/binary_search.dir/binary_search/NeneGame.cpp.obj	a07576dc1357daa9
+11	727	7464710771483166	CMakeFiles/binary_search.dir/data_structures/ICPCBalloons.cpp.obj	fbfb83f8d94fc650
+542	641	7464717476232572	data_structures.exe	735877810ebb0ee5
+533	635	7465890280645269	implementation.exe	9035b2de240ba931
+10	533	7465890275422409	CMakeFiles/implementation.dir/implementation/Magnets.cpp.obj	45042f145418a701

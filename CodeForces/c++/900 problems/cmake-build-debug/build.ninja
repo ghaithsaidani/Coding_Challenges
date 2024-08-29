@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challen
 
 build cmake_object_order_depends_target_sorting: phony || CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/sorting/Keyboard.cpp.obj: CXX_COMPILER__sorting_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/900$ problems/sorting/Keyboard.cpp || cmake_object_order_depends_target_sorting
-  DEP_FILE = CMakeFiles\sorting.dir\sorting\Keyboard.cpp.obj.d
+build CMakeFiles/sorting.dir/sorting/Promo.cpp.obj: CXX_COMPILER__sorting_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/900$ problems/sorting/Promo.cpp || cmake_object_order_depends_target_sorting
+  DEP_FILE = CMakeFiles\sorting.dir\sorting\Promo.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sorting.dir
   OBJECT_FILE_DIR = CMakeFiles\sorting.dir\sorting
@@ -63,7 +63,7 @@ build CMakeFiles/sorting.dir/sorting/Keyboard.cpp.obj: CXX_COMPILER__sorting_uns
 #############################################
 # Link the executable sorting.exe
 
-build sorting.exe: CXX_EXECUTABLE_LINKER__sorting_Debug CMakeFiles/sorting.dir/sorting/Keyboard.cpp.obj
+build sorting.exe: CXX_EXECUTABLE_LINKER__sorting_Debug CMakeFiles/sorting.dir/sorting/Promo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\sorting.dir
@@ -72,6 +72,72 @@ build sorting.exe: CXX_EXECUTABLE_LINKER__sorting_Debug CMakeFiles/sorting.dir/s
   TARGET_FILE = sorting.exe
   TARGET_IMPLIB = libsorting.dll.a
   TARGET_PDB = sorting.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target binary_search
+
+
+#############################################
+# Order-only phony target for binary_search
+
+build cmake_object_order_depends_target_binary_search: phony || CMakeFiles/binary_search.dir
+
+build CMakeFiles/binary_search.dir/binary_search/SushiForTwo.cpp.obj: CXX_COMPILER__binary_search_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/900$ problems/binary_search/SushiForTwo.cpp || cmake_object_order_depends_target_binary_search
+  DEP_FILE = CMakeFiles\binary_search.dir\binary_search\SushiForTwo.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\binary_search.dir
+  OBJECT_FILE_DIR = CMakeFiles\binary_search.dir\binary_search
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target binary_search
+
+
+#############################################
+# Link the executable binary_search.exe
+
+build binary_search.exe: CXX_EXECUTABLE_LINKER__binary_search_Debug CMakeFiles/binary_search.dir/binary_search/SushiForTwo.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\binary_search.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = binary_search.exe
+  TARGET_IMPLIB = libbinary_search.dll.a
+  TARGET_PDB = binary_search.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target data_structures
+
+
+#############################################
+# Order-only phony target for data_structures
+
+build cmake_object_order_depends_target_data_structures: phony || CMakeFiles/data_structures.dir
+
+build CMakeFiles/data_structures.dir/data_structures/OddQueries.cpp.obj: CXX_COMPILER__data_structures_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/900$ problems/data_structures/OddQueries.cpp || cmake_object_order_depends_target_data_structures
+  DEP_FILE = CMakeFiles\data_structures.dir\data_structures\OddQueries.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\data_structures.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structures.dir\data_structures
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target data_structures
+
+
+#############################################
+# Link the executable data_structures.exe
+
+build data_structures.exe: CXX_EXECUTABLE_LINKER__data_structures_Debug CMakeFiles/data_structures.dir/data_structures/OddQueries.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\data_structures.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = data_structures.exe
+  TARGET_IMPLIB = libdata_structures.dll.a
+  TARGET_PDB = data_structures.exe.dbg
 
 
 #############################################
@@ -99,6 +165,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build binary_search: phony binary_search.exe
+
+build data_structures: phony data_structures.exe
+
 build sorting: phony sorting.exe
 
 # =============================================================================
@@ -109,7 +179,7 @@ build sorting: phony sorting.exe
 #############################################
 # Folder: C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/900 problems/cmake-build-debug
 
-build all: phony sorting.exe
+build all: phony sorting.exe binary_search.exe data_structures.exe
 
 # =============================================================================
 # Built-in targets

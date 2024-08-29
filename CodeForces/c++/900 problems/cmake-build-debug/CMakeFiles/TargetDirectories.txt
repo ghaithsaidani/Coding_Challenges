@@ -1,3 +1,5 @@
 C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/900 problems/cmake-build-debug/CMakeFiles/sorting.dir
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/900 problems/cmake-build-debug/CMakeFiles/binary_search.dir
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/900 problems/cmake-build-debug/CMakeFiles/data_structures.dir
 C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/900 problems/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/900 problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir

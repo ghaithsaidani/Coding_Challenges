@@ -1,0 +1,3 @@
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1100 problems/cmake-build-debug/CMakeFiles/greedy.dir
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1100 problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1100 problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir

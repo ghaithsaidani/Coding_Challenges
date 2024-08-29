@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1700_problems",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1700_problems::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1700_problems-Debug-c0cb94c7013c1d95cf0c.json",
+					"name" : "1700_problems",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binary_search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary_search-Debug-ba1a60b0587762fe6b17.json",
+					"name" : "binary_search",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1700 problems/cmake-build-debug",
+		"source" : "C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1700 problems"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

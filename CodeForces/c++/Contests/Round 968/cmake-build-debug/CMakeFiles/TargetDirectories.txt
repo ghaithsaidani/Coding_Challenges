@@ -1,0 +1,3 @@
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/Contests/Round 968/cmake-build-debug/CMakeFiles/Round_968.dir
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/Contests/Round 968/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/Contests/Round 968/cmake-build-debug/CMakeFiles/rebuild_cache.dir

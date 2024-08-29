@@ -1,0 +1,15 @@
+# ninja log v6
+11	795	7458447093881201	CMakeFiles/greedy.dir/greedy/IncreaseDecreaseCopy.cpp.obj	5268ad003c2cd317
+796	918	7458447101726901	greedy.exe	412bb4e31b38bf6a
+3	756	7458509193082918	CMakeFiles/greedy.dir/greedy/EducationalGame.cpp.obj	95be2982661f2d1b
+758	997	7458509200629655	greedy.exe	6d01509e2eefdf67
+9	650	7458509464401542	CMakeFiles/greedy.dir/greedy/EducationalGame.cpp.obj	95be2982661f2d1b
+651	750	7458509470820647	greedy.exe	6d01509e2eefdf67
+8	643	7458509889787072	CMakeFiles/greedy.dir/greedy/EducationalGame.cpp.obj	95be2982661f2d1b
+644	777	7458509896157105	greedy.exe	6d01509e2eefdf67
+42	1390	7458512593638819	CMakeFiles/greedy.dir/greedy/EducationalGame.cpp.obj	95be2982661f2d1b
+1397	1617	7458512607194387	greedy.exe	6d01509e2eefdf67
+8	620	7458512959182551	CMakeFiles/greedy.dir/greedy/EducationalGame.cpp.obj	95be2982661f2d1b
+621	713	7458512965312508	greedy.exe	6d01509e2eefdf67
+7	636	7458513159033976	CMakeFiles/greedy.dir/greedy/EducationalGame.cpp.obj	95be2982661f2d1b
+636	738	7458513165318678	greedy.exe	6d01509e2eefdf67

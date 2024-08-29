@@ -1,0 +1,11 @@
+# ninja log v6
+15	334	7463055995875703	build.ninja	6f01b7f0d59152b3
+26	436	7463003220785166	CMakeFiles/Round_968.dir/TurtleAndGoodStrings.cpp.obj	d9b7008737c6bdf8
+622	720	7463037132403693	Round_968.exe	94095aa319c79c75
+7	621	7463037126256971	CMakeFiles/Round_968.dir/TurtleAndPiggyArePlayingAGame.cpp.obj	82455aa566adbda6
+3	768	7463075330701426	CMakeFiles/Round_968.dir/TurtleAndThreeSequences.cpp.obj	194358366cc79938
+770	903	7463075338367838	Round_968.exe	be8ace184c575b06
+6	722	7463076369293790	CMakeFiles/Round_968.dir/TurtleAndThreeSequences.cpp.obj	194358366cc79938
+723	837	7463076376459583	Round_968.exe	be8ace184c575b06
+7	787	7463076613494367	CMakeFiles/Round_968.dir/TurtleAndThreeSequences.cpp.obj	194358366cc79938
+787	903	7463076621295132	Round_968.exe	be8ace184c575b06

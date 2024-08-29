@@ -112,6 +112,138 @@ build constructive_algorithms.exe: CXX_EXECUTABLE_LINKER__constructive_algorithm
   TARGET_IMPLIB = libconstructive_algorithms.dll.a
   TARGET_PDB = constructive_algorithms.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target math
+
+
+#############################################
+# Order-only phony target for math
+
+build cmake_object_order_depends_target_math: phony || CMakeFiles/math.dir
+
+build CMakeFiles/math.dir/math/TheatreSquare.cpp.obj: CXX_COMPILER__math_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/1000$ problems/math/TheatreSquare.cpp || cmake_object_order_depends_target_math
+  DEP_FILE = CMakeFiles\math.dir\math\TheatreSquare.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\math.dir
+  OBJECT_FILE_DIR = CMakeFiles\math.dir\math
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target math
+
+
+#############################################
+# Link the executable math.exe
+
+build math.exe: CXX_EXECUTABLE_LINKER__math_Debug CMakeFiles/math.dir/math/TheatreSquare.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\math.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = math.exe
+  TARGET_IMPLIB = libmath.dll.a
+  TARGET_PDB = math.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target implementation
+
+
+#############################################
+# Order-only phony target for implementation
+
+build cmake_object_order_depends_target_implementation: phony || CMakeFiles/implementation.dir
+
+build CMakeFiles/implementation.dir/implementation/CapsLock.cpp.obj: CXX_COMPILER__implementation_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/1000$ problems/implementation/CapsLock.cpp || cmake_object_order_depends_target_implementation
+  DEP_FILE = CMakeFiles\implementation.dir\implementation\CapsLock.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\implementation.dir
+  OBJECT_FILE_DIR = CMakeFiles\implementation.dir\implementation
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target implementation
+
+
+#############################################
+# Link the executable implementation.exe
+
+build implementation.exe: CXX_EXECUTABLE_LINKER__implementation_Debug CMakeFiles/implementation.dir/implementation/CapsLock.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\implementation.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = implementation.exe
+  TARGET_IMPLIB = libimplementation.dll.a
+  TARGET_PDB = implementation.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target binary_search
+
+
+#############################################
+# Order-only phony target for binary_search
+
+build cmake_object_order_depends_target_binary_search: phony || CMakeFiles/binary_search.dir
+
+build CMakeFiles/binary_search.dir/binary_search/TrafficLight.cpp.obj: CXX_COMPILER__binary_search_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/1000$ problems/binary_search/TrafficLight.cpp || cmake_object_order_depends_target_binary_search
+  DEP_FILE = CMakeFiles\binary_search.dir\binary_search\TrafficLight.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\binary_search.dir
+  OBJECT_FILE_DIR = CMakeFiles\binary_search.dir\binary_search
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target binary_search
+
+
+#############################################
+# Link the executable binary_search.exe
+
+build binary_search.exe: CXX_EXECUTABLE_LINKER__binary_search_Debug CMakeFiles/binary_search.dir/binary_search/TrafficLight.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\binary_search.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = binary_search.exe
+  TARGET_IMPLIB = libbinary_search.dll.a
+  TARGET_PDB = binary_search.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target data_structures
+
+
+#############################################
+# Order-only phony target for data_structures
+
+build cmake_object_order_depends_target_data_structures: phony || CMakeFiles/data_structures.dir
+
+build CMakeFiles/data_structures.dir/data_structures/PogressiveSquare.cpp.obj: CXX_COMPILER__data_structures_unscanned_Debug C$:/Users/ghait/OneDrive/Bureau/Challenges/Coding$ challenges/CodeForces/c++/1000$ problems/data_structures/PogressiveSquare.cpp || cmake_object_order_depends_target_data_structures
+  DEP_FILE = CMakeFiles\data_structures.dir\data_structures\PogressiveSquare.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\data_structures.dir
+  OBJECT_FILE_DIR = CMakeFiles\data_structures.dir\data_structures
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target data_structures
+
+
+#############################################
+# Link the executable data_structures.exe
+
+build data_structures.exe: CXX_EXECUTABLE_LINKER__data_structures_Debug CMakeFiles/data_structures.dir/data_structures/PogressiveSquare.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\data_structures.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = data_structures.exe
+  TARGET_IMPLIB = libdata_structures.dll.a
+  TARGET_PDB = data_structures.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -138,7 +270,15 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build binary_search: phony binary_search.exe
+
 build constructive_algorithms: phony constructive_algorithms.exe
+
+build data_structures: phony data_structures.exe
+
+build implementation: phony implementation.exe
+
+build math: phony math.exe
 
 build sorting: phony sorting.exe
 
@@ -150,7 +290,7 @@ build sorting: phony sorting.exe
 #############################################
 # Folder: C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug
 
-build all: phony sorting.exe constructive_algorithms.exe
+build all: phony sorting.exe constructive_algorithms.exe math.exe implementation.exe binary_search.exe data_structures.exe
 
 # =============================================================================
 # Built-in targets

@@ -11,3 +11,12 @@ add_executable(constructive_algorithms
         constructive_algorithms/ShiftsAndSorting.cpp
         constructive_algorithms/AssemblyViaRemainders.cpp
 )
+add_executable(math math/TheatreSquare.cpp)
+add_executable(implementation
+        #implementation/StringTask.cpp
+        implementation/CapsLock.cpp
+)
+add_executable(binary_search
+        #binary_search/KDivisibleSum.cpp
+        binary_search/TrafficLight.cpp)
+add_executable(data_structures data_structures/PogressiveSquare.cpp)
