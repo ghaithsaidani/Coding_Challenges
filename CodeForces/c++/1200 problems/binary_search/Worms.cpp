@@ -3,24 +3,25 @@
 
 using namespace std;
 
-int binarySearch(vector<pair<int,int>> limits, int x,int pos,int finalPos)
+int binarySearch(vector<pair<int,int>> limits,int q)
 {
-    if(limits.size() == 1)
-        return finalPos ;
-    if(limits[pos].first <= x && limits[pos].second >= x)
-        return finalPos + 1;
-    if(limits[pos].first > x)
-    {
-        limits.erase(limits.begin()+pos,limits.end());
-        finalPos -=limits.size() / 2;
+    int middle = limits.size()/2;
+    int start = 0;
+    int end = limits.size()-1;
+    while (start <= end) {
+        if (q >= limits[middle].first && q <= limits[middle].second) {
+            return middle+1;
+        }
+        if (q > limits[middle].second) {
+            start = middle;
+            middle += ((end - start) / 2 + (end - start) % 2);
+        }
+        else {
+            end = middle;
+            middle -= ((end - start) / 2 + (end - start) % 2);
+        }
     }
-    else
-    {
-        limits.erase(limits.begin(), limits.begin() + pos);
-        finalPos += limits.size() / 2;
-    }
-
-    return binarySearch(limits,x, limits.size()/2, finalPos);
+    return middle;
 }
 
 int main()
@@ -34,12 +35,13 @@ int main()
         limits[i].first = sum+1;
         sum+=x;
         limits[i].second = sum;
+        //cout << limits[i].first << " " << limits[i].second;
     }
     int m;cin >> m;
-    while(m--)
+    for(int i=0;i<m;i++)
     {
-        int x;cin >> x;
-        cout << binarySearch(limits,x,limits.size()/2,limits.size()/2) << endl;
+        int q;cin >> q;
+        cout << binarySearch(limits,q) << endl;
 
     }
     return 0;

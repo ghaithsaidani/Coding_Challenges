@@ -1,0 +1,5 @@
+# ninja log v6
+3	295	7469112179992626	build.ninja	2c7321f4bb48e491
+6	422	7469056345148622	CMakeFiles/Round_970__Div_3_.dir/SakurakoExam.cpp.obj	d32009d8b413d4b7
+385	469	7469101953626414	Round_970__Div_3_.exe	e2bfa279a921691a
+6	385	7469101949835734	CMakeFiles/Round_970__Div_3_.dir/LongestGoodArray.cpp.obj	d8faeaf95d37f9e

@@ -1,18 +1,11 @@
 # ninja log v6
-534	655	7457612464252105	1000_problems.exe	a36bf469ffc9123c
-2	304	7464776610088719	build.ninja	99df06a725818828
-27	532	7457612459178239	CMakeFiles/1000_problems.dir/Dragons.cpp.obj	6dc41a9d2045e0a8
-2	842	7457631162639213	CMakeFiles/sorting.dir/sorting/Dragons.cpp.obj	2246518ee05903cc
-7	798	7457888158482511	CMakeFiles/constructive_algorithms.dir/constructive_algorithms/OlyaAndGamesWithArrays.cpp.obj	26313b9e1ff84d37
-564	666	7457647299124577	sorting.exe	b4731c6942699e11
-6	563	7457647293547204	CMakeFiles/sorting.dir/sorting/MahmoudAndTriangle.cpp.obj	784e4f592beaeb05
-454	546	7457895664528156	constructive_algorithms.exe	475adf3bc1b7e5e9
-7	453	7457895660063616	CMakeFiles/constructive_algorithms.dir/constructive_algorithms/ShiftsAndSorting.cpp.obj	4bdbd78dd538fc86
-10	539	7458552267865623	CMakeFiles/math.dir/math/TheatreSquare.cpp.obj	2a123a42b71d261d
-540	627	7458552273157643	math.exe	bebb42dbcd0ebb00
-6	618	7458587810264699	CMakeFiles/implementation.dir/implementation/StringTask.cpp.obj	dabf822bab5b3a06
-556	651	7458614984690398	implementation.exe	bb22e0982ffdf7df
-10	555	7458614979244938	CMakeFiles/implementation.dir/implementation/CapsLock.cpp.obj	c6232f834cba7d8d
-8	477	7460384962226701	CMakeFiles/binary_search.dir/binary_search/KDivisibleSum.cpp.obj	b1bd3a2f2b12c749
 403	493	7460438284936361	binary_search.exe	ee8a47a9e1047085
-7	403	7460438280966376	CMakeFiles/binary_search.dir/binary_search/TrafficLight.cpp.obj	8dfa46a65e846df
+1	24	1732961558188727840	build.ninja	fcd32ef23dfdea34
+534	655	7457612464252105	1000_problems.exe	a36bf469ffc9123c
+687	782	7468963825679581	data_structures.exe	174cf6db915042b0
+540	627	7458552273157643	math.exe	bebb42dbcd0ebb00
+564	666	7457647299124577	sorting.exe	b4731c6942699e11
+332	413	1732808886313888238	constructive_algorithms	116feb173abd80d7
+556	651	7458614984690398	implementation.exe	bb22e0982ffdf7df
+454	546	7457895664528156	constructive_algorithms.exe	475adf3bc1b7e5e9
+2	332	1732808885983900490	CMakeFiles/constructive_algorithms.dir/constructive_algorithms/FavouritePermutation.cpp.o	4f9ed0e70ec42215

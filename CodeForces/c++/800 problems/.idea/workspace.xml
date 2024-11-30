@@ -6,6 +6,9 @@
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
 }</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -26,7 +29,163 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c61f83af-fa97-48f2-948a-f3ea4a8bb0bc" name="Changes" comment="" />
+    <list default="true" id="c61f83af-fa97-48f2-948a-f3ea4a8bb0bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/Coding challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/Coding challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/AlgoExpert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/AlgoExpert.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/BranchSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/BranchSums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/ClosestInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/ClosestInBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/FirstNonREpeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/FirstNonREpeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/GenerateDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/GenerateDoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/NonConstructibleChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/NonConstructibleChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AlgoExpert/src/ValidateSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AlgoExpert/src/ValidateSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/CodingGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/CodingGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/src/Tempratures.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/src/Tempratures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingGame/src/TheDescent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CodingGame/src/TheDescent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/HackerRank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Algorithms/GridLand_Metro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Algorithms/GridLand_Metro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Java/Java_1D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Java/Java_1D_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Java/Java_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Java/Java_Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Java/PrimeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HackerRank/HackerRank/src/Java/PrimeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/C++ problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/C++ problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/FirstMissingPositive.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/FirstMissingPositive.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/IsPalindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/IsPalindrome.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/ListNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/ListNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/LongestCommonPrefix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/LongestCommonPrefix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/MergeTwoSortedList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/MergeTwoSortedList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/RemoveDuplicates.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/RemoveDuplicates.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/RomanToInterger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/RomanToInterger.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/SingleNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/SingleNumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/ValidPalindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/ValidPalindrome.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/ValidParentheses.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/ValidParentheses.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c53fe7c19e8cb1f0313a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c53fe7c19e8cb1f0313a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4b4383bc5dc2d85a1c6b.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4b4383bc5dc2d85a1c6b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-49aff910b6be3a2559b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-49aff910b6be3a2559b4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-01T11-18-58-0051.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-01T11-18-58-0051.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/target-C___problems-Debug-fca441b7090f09cb2772.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/target-C___problems-Debug-fca441b7090f09cb2772.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-048c58cdcfa38ecd57f9.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-048c58cdcfa38ecd57f9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/C++/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/out/production/LeetCode/Duplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/out/production/LeetCode/Duplicates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/AddBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/Duplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/Duplicates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/FirstOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/FirstOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/InorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/InsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/InsertPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/LengthOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/LengthOfLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/LongestPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/LongestPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/MergeTwoSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/MergeTwoSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/PalindromNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/PalindromNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/RemoveDuplicatesfromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/RemoveDuplicatesfromSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/SameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/Socks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/Socks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/SymetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/SymetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/TwoSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/TwoSums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/models/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/models/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Java/src/models/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/Java/src/models/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/OlympIQs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/OlympIQs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OlympIQs/src/PrisonBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OlympIQs/src/PrisonBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/CodingChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/CodingChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SesameCodingChallenge/src/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/Using Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/Using Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Using Python/TwoSums.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Using Python/TwoSums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../~$order.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +217,7 @@
     <setting file="file://$PROJECT_DIR$/binary_search/GamerHemose.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/binary_search/Legs.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/binary_search/NeneGame.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/implementation/CalculatingFunction.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -76,38 +236,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;CMake Application.binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.brute_force.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.c__.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.c__2.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.data_structures.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.implementation.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.math.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.sorting.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/800 problems&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.binary_search.executor": "Run",
+    "CMake Application.brute_force.executor": "Run",
+    "CMake Application.c__.executor": "Run",
+    "CMake Application.c__2.executor": "Run",
+    "CMake Application.data_structures.executor": "Run",
+    "CMake Application.implementation.executor": "Run",
+    "CMake Application.math.executor": "Run",
+    "CMake Application.sorting.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="CMake Application.implementation">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="binary_search" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c__2" TARGET_NAME="binary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c__2" RUN_TARGET_NAME="binary_search">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -178,7 +333,8 @@
       <workItem from="1724753960266" duration="248000" />
       <workItem from="1724767415889" duration="2416000" />
       <workItem from="1724884234346" duration="1392000" />
-      <workItem from="1724942034590" duration="6000" />
+      <workItem from="1724942034590" duration="450000" />
+      <workItem from="1732804192267" duration="1078000" />
     </task>
     <servers />
   </component>

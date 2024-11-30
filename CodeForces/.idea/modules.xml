@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1000_problems.iml" filepath="$PROJECT_DIR$/.idea/1000_problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces.iml" />
     </modules>
   </component>

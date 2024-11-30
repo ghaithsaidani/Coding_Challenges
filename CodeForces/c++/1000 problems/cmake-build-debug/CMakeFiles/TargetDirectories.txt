@@ -1,8 +1,8 @@
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/sorting.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/constructive_algorithms.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/math.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/implementation.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/binary_search.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/data_structures.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ghait/OneDrive/Bureau/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/sorting.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/constructive_algorithms.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/math.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/implementation.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/binary_search.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/data_structures.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ghaith/Desktop/Challenges/Coding challenges/CodeForces/c++/1000 problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
