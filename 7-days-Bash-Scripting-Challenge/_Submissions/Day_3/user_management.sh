@@ -55,6 +55,6 @@ case $OPTION in
         list_users
         ;;
     *)
-        echo -e "Usage: ./user_management.sh [OPTIONS]\nOptions:\n   -c, --create\t\tCreate a new user account.\n   -d, --delete\t\tDelete an existing user account.\n   -r, --reset\t\tReset password for an existing user account.\n   -l, --list\t\tLista all user accounts on the system.\n   -h, --help\t\tDisplay this help and exit."
+        echo -e "Usage: $0 [OPTIONS]\nOptions:\n   -c, --create\t\tCreate a new user account.\n   -d, --delete\t\tDelete an existing user account.\n   -r, --reset\t\tReset password for an existing user account.\n   -l, --list\t\tLista all user accounts on the system.\n   -h, --help\t\tDisplay this help and exit."
         ;;
 esac
