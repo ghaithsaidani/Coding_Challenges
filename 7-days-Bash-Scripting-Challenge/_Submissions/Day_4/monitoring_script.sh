@@ -42,9 +42,12 @@ monitor_service(){
 system_metrics(){
     echo -e "---- System Metrics ----\n"
     while true; do
-        echo -e "CPU Usage: $(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8"%"}')\
-        Mem Usage: $(top -b -n 1 | grep "MiB Mem" | awk '{print int(($8 / $4) * 100)}')\
-        Disk usage: $(df --output=pcent / | tail -n 1)\n"
+        cpu_usage=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8"%"}')
+        mem_usage=$(top -b -n 1 | grep "MiB Mem" | awk '{print int(($8 / $4) * 100)}')
+        disk_usage=$(df --output=pcent / | tail -n 1)
+        echo -e "CPU Usage: $cpu_usage\
+        Mem Usage: $mem_usage\
+        Disk usage: $disk_usage\n"
         echo "Press enter to continue..."
         read -t 3 -r input
         if [[ $? -eq 0 ]];  then
